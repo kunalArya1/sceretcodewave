@@ -7,13 +7,11 @@ import Navbar from "@/components/Navabar";
 import PartnerSection from "@/components/PartnerSection";
 import PromoBanner from "@/components/PromoBanner";
 import ReviewSlider from "@/components/ReviewSlider";
-import ServicesSlider from "@/components/ServicesSlider";
 import SoftwareBuildingSection from "@/components/SoftwareBuildingS";
 import SoftwareSection from "@/components/SoftwareSection";
 import TechStackSection from "@/components/TechStackSection";
 import TestimonialSlider from "@/components/TestimonialSlider";
 import Timeline from "@/components/Timeline";
-import Image from "next/image";
 
 export default function Home() {
   return (
