@@ -39,8 +39,8 @@ const SoftwareBuildingSection = () => {
             {/* Testimonial */}
             <div className="mt-8 bg-purple-50 p-4 rounded-md">
               <p className="text-pink-600 italic">
-                "Simform is quick to identify larger problem with the Software
-                so we decided to expand our scope to build new modules"
+                &quot Simform is quick to identify larger problem with the
+                Software so we decided to expand our scope to build new modules &quoat
               </p>
               <div className="flex items-center mt-4">
                 <img
