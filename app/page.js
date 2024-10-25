@@ -12,6 +12,7 @@ import SoftwareSection from "@/components/SoftwareSection";
 import TechStackSection from "@/components/TechStackSection";
 import TestimonialSlider from "@/components/TestimonialSlider";
 import Timeline from "@/components/Timeline";
+import "../app/globals.css";
 
 export default function Home() {
   return (
